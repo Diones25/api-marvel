@@ -105,7 +105,7 @@ Para rodar o projeto deve ter instalado o Node JS e o NPM e rodar os comandos ab
                 ......
 ````
 
-## Stack utilizada
+## Tecnologias utilizada
 
 **Back-end:** Node, Express, Axios
 
